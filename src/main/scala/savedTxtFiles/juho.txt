@@ -1,0 +1,36 @@
+{
+  "dg_type" : "Line Chart",
+  "measure_key" : "1",
+  "in_start" : {
+    "Helsinki" : 3
+  },
+  "in_end" : {
+    "Helsinki" : 53
+  },
+  "add_mes" : {
+    "Helsinki" : ""
+  },
+  "kunta_color_changes" : [
+    {
+      "name" : "Helsinki",
+      "week_color" : {
+        "41" : "-fx-background-color: #ffa07a"
+      }
+    }
+  ],
+  "kunta_comment_changes" : [
+    {
+      "name" : "Helsinki",
+      "week_comment" : [
+        {
+          "week" : 41,
+          "comments" : [
+            "erghwer"
+          ]
+        }
+      ]
+    }
+  ],
+  "charName" : "Stacked Line Chart",
+  "axisName" : "tapaukset"
+}

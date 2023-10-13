@@ -1,0 +1,48 @@
+{
+  "dg_type" : "Pie Chart",
+  "measure_key" : "1",
+  "in_start" : {
+    "Helsingin ja Uudenmaan SHP" : 3,
+    "Helsinki" : 2
+  },
+  "in_end" : {
+    "Helsingin ja Uudenmaan SHP" : 44,
+    "Helsinki" : 60
+  },
+  "add_mes" : {
+    "Helsingin ja Uudenmaan SHP" : "",
+    "Helsinki" : ""
+  },
+  "kunta_color_changes" : [
+    {
+      "name" : "Helsingin ja Uudenmaan SHP",
+      "week_color" : {
+        "14" : "-fx-background-color: #d8bfd855",
+        "41" : "-fx-background-color: #2f4f4f"
+      }
+    },
+    {
+      "name" : "Helsinki",
+      "week_color" : {
+        "47" : "-fx-background-color: #fffacd",
+        "58" : "-fx-background-color: #2f4f4f"
+      }
+    }
+  ],
+  "kunta_comment_changes" : [
+  {
+    "name" : "Helsingin ja Uudenmaan SHP",
+    "week_comment" : [
+      {
+        "week" : 20,
+        "comments" : [
+          "wefwqf",
+          "werh45t6uhj"
+        ]
+      }
+    ]
+  }
+],
+  "charName" : "o",
+  "axisName" : ""
+}

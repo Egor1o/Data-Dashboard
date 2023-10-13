@@ -1,0 +1,46 @@
+{
+  "dg_type" : "Line Chart",
+  "measure_key" : "1",
+  "in_start" : {
+    "Helsingin ja Uudenmaan SHP" : 2,
+    "Lapin SHP" : 5
+  },
+  "in_end" : {
+    "Helsingin ja Uudenmaan SHP" : 26,
+    "Lapin SHP" : 53
+  },
+  "add_mes" : {
+    "Helsingin ja Uudenmaan SHP" : "",
+    "Lapin SHP" : ""
+  },
+  "kunta_color_changes" : [
+    {
+      "name" : "Helsingin ja Uudenmaan SHP",
+      "week_color" : {
+        "16" : "-fx-background-color: #ffa07a"
+      }
+    },
+    {
+      "name" : "Lapin SHP",
+      "week_color" : {
+        "44" : "-fx-background-color: #d8bfd855"
+      }
+    }
+  ],
+  "kunta_comment_changes" : [
+    {
+      "name" : "Lapin SHP",
+      "week_comment" : [
+        {
+          "week" : 44,
+          "comments" : [
+            "wefwqf",
+            "werh45t6uhj"
+          ]
+        }
+      ]
+    }
+  ],
+  "charName" : "Stacked Line Chart",
+  "axisName" : "tapaukset"
+}

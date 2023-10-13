@@ -1,0 +1,25 @@
+{
+  "dg_type" : "Line Chart",
+  "measure_key" : "1",
+  "in_start" : {
+    "Kaikki Alueet" : 90,
+    "Helsingin ja Uudenmaan SHP" : 95,
+    "Espoo" : 92
+  },
+  "in_end" : {
+    "Kaikki Alueet" : 110,
+    "Helsingin ja Uudenmaan SHP" : 105,
+    "Espoo" : 107
+  },
+  "add_mes" : {
+    "Kaikki Alueet" : "",
+    "Helsingin ja Uudenmaan SHP" : "",
+    "Espoo" : ""
+  },
+  "kunta_color_changes" : [
+  ],
+  "kunta_comment_changes" : [
+  ],
+  "charName" : "Stacked Line Chart",
+  "axisName" : "tapaukset"
+}
