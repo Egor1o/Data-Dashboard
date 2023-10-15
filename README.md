@@ -5,7 +5,7 @@ Project is a data visualization tool for analyzing public health data from the F
 
 ## Overview
 
-Project Data-dashboard is a data visualization tool designed to fetch and analyze public health data from the Finnish Institute for Health and Welfare (THL). 
+Data-dashboard is a data visualization tool designed to fetch and analyze public health data from the Finnish Institute for Health and Welfare (THL). 
 It provides a graphical user interface for creating and analyzing charts based on various health metrics, such as COVID-19 cases, in different 
 geographical regions and time frames. The tool supports the creation of different types of charts, including bar charts, line charts, and pie charts, and allows 
 users to customize colors and comments for data points.
