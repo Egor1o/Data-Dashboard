@@ -18,7 +18,7 @@ To clone this repository to your local machine, you can use the following comman
 
 ```bash
 git clone https://github.com/Egor1o/Data-Dashboard.git
-
+```
 
 ## Running the Scala Application
 
@@ -42,7 +42,7 @@ git clone https://github.com/Egor1o/Data-Dashboard.git
    - sbt will create a 'target' directory during the build process; you can typically ignore this directory.
 
 Your Scala application should now be up and running.
-```
+
 
 ## Usage
 Use the graphical user interface to select the region, time frame, and health metrics for your chart.
